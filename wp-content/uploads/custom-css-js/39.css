@@ -1,0 +1,18 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.hidden-lightbox {
+  position: absolute !important;
+  left: -9999px !important;
+  top: -9999px !important;
+  width: 1px !important;
+  height: 1px !important;
+  overflow: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+img.main-lightbox-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}</style>
+<!-- end Simple Custom CSS and JS -->

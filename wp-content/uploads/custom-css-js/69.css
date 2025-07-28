@@ -1,0 +1,11 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.rl_gallery img {
+  max-width: 600px; /* pune ce dimensiune vrei */
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}</style>
+<!-- end Simple Custom CSS and JS -->
